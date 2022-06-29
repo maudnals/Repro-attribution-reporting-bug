@@ -6,7 +6,7 @@
 
 - `git clone`
 
-In the project folder (`./repro-attribution-reporting-bug`):
+In the project folder (`./repro-attribution-reporting-issue`):
 - `npm i`
 - `brew install mkcert`
 - `mkcert -install`
