@@ -1,6 +1,6 @@
 # Repro Attribution Reporting issue locally
 
-[Issue](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/issues/40)
+[Issue #40](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/issues/40)
 
 ## Set up 
 
